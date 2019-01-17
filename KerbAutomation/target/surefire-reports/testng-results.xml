@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68205" started-at="2019-01-17T08:04:59Z" finished-at="2019-01-17T08:06:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68205" started-at="2019-01-17T08:04:59Z" finished-at="2019-01-17T08:06:08Z">
+      <class name="com.kerb.test.Scenarios.RouteToFindSpace_LeaseSpace_Bookings">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.kerb.test.Scenarios.RouteToFindSpace_LeaseSpace_Bookings@39fb3ab6]" name="initialization" is-config="true" duration-ms="18342" started-at="2019-01-17T13:35:33Z" finished-at="2019-01-17T13:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="routeToFindSpace_LeaseSpace_Bookings()[pri:0, instance:com.kerb.test.Scenarios.RouteToFindSpace_LeaseSpace_Bookings@39fb3ab6]" name="routeToFindSpace_LeaseSpace_Bookings" duration-ms="15651" started-at="2019-01-17T13:35:51Z" finished-at="2019-01-17T13:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- routeToFindSpace_LeaseSpace_Bookings -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:com.kerb.test.Scenarios.RouteToFindSpace_LeaseSpace_Bookings@39fb3ab6]" name="closeApplication" is-config="true" duration-ms="600" started-at="2019-01-17T13:36:07Z" finished-at="2019-01-17T13:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=routeToFindSpace_LeaseSpace_Bookings status=SUCCESS method=RouteToFindSpace_LeaseSpace_Bookings.routeToFindSpace_LeaseSpace_Bookings()[pri:0, instance:com.kerb.test.Scenarios.RouteToFindSpace_LeaseSpace_Bookings@39fb3ab6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.kerb.test.Scenarios.RouteToFindSpace_LeaseSpace_Bookings -->
+      <class name="com.kerb.test.Scenarios.HomePageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.kerb.test.Scenarios.HomePageTest@61a485d2]" name="initialization" is-config="true" duration-ms="26804" started-at="2019-01-17T13:34:59Z" finished-at="2019-01-17T13:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="HomeTest()[pri:0, instance:com.kerb.test.Scenarios.HomePageTest@61a485d2]" name="HomeTest" duration-ms="6042" started-at="2019-01-17T13:35:26Z" finished-at="2019-01-17T13:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTest -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:com.kerb.test.Scenarios.HomePageTest@61a485d2]" name="closeApplication" is-config="true" duration-ms="700" started-at="2019-01-17T13:35:32Z" finished-at="2019-01-17T13:35:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomeTest status=SUCCESS method=HomePageTest.HomeTest()[pri:0, instance:com.kerb.test.Scenarios.HomePageTest@61a485d2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.kerb.test.Scenarios.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

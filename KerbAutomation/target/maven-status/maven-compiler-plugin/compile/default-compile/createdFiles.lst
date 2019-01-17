@@ -1,0 +1,7 @@
+com\kerb\core\base\SupportTest.class
+com\kerb\core\pages\BookingsPage.class
+com\kerb\core\pages\LeaseSpacePage.class
+com\kerb\core\pages\FindSpacePage.class
+com\kerb\core\pages\HomePage.class
+com\kerb\core\utils\TestUtil.class
+com\kerb\core\base\IAutoConstant.class
